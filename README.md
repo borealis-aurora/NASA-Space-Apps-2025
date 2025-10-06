@@ -1,6 +1,8 @@
 # 💡 Challenge 
 NASA Farm Navigators: Using NASA Data Exploration in Agriculture 
 
+[![Python](https://img.shields.io/badge/python-✓-green)](https://www.npmjs.com/package/peaks.js)
+
 ## ❓ About the Challenge 
 
 The agriculture community faces the challenge of integrating technology and data to enhance sustainable farming practices. Simulating key farming activities like fertilizing, irrigating, and livestock management using real-world NASA satellite imagery and climate data can enable better understanding of the impacts of these variables on crop production. Your challenge is to create an engaging educational game that effectively utilizes NASA’s open data sets to simulate farming scenarios and enables players to learn how this data can inform innovative, sustainable, agricultural methods. (Earth Science Division)
@@ -14,5 +16,5 @@ based on key parameters such as temperature, precipitation, and soil moisture.
 ➡️ Amiki’s purpose is to educate new generations about climate change’s effects on agriculture with a specific focus on current trends of long-run droughts, rising temperatures and a low precipitation index. The main goal of the game is to monitor the humidity of the soil while taking care of the water supply, balancing resource management with crop care to maintain optimal growing conditions and ensure survival. Drawn by the current climate change trends, a postapocalyptic world was chosen as inspiration. In this world the player is guided towards efficiently handling their resources (following an agri-environmental philosophy in the use of water) while being self-sufficient and priorising survival.
 
 <p align="center">
-  <img src="" alt="Logo" width="250">
+  <img src="Amiki_banner.png" alt="Logo" width="700">
 </p>
